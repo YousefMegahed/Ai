@@ -1,0 +1,2 @@
+﻿functions.obj : error LNK2005: "void __cdecl acquirelinks(class std::vector<class link,class std::allocator<class link> > &)" (?acquirelinks@@YAXAAV?$vector@Vlink@@V?$allocator@Vlink@@@std@@@std@@@Z) already defined in acquireLinks.obj
+c:\users\joo\documents\visual studio 2015\Projects\Ai\Debug\Ai.exe : fatal error LNK1169: one or more multiply defined symbols found
